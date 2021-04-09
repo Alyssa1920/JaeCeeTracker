@@ -12,7 +12,7 @@
 	<artifactId>JaeCeeTracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JaeCeeTracker</name>
-	<description>Project to Manager Alyssa JaeCee Modeling</description>
+	<description>Manage Alyssa JaeCee LLC</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
